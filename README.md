@@ -12,14 +12,16 @@ Each script adds **one** concept on top of the last, in the same
 
 ## Setup
 
-Your API key lives in a `.env` file (gitignored, never committed). Each script
-calls `load_dotenv()` to read it, so you don't need to export anything:
-
 ```bash
-source .venv/bin/activate
-# .env already contains: ANTHROPIC_API_KEY=sk-ant-...
+python -m venv .venv
+source .venv/bin/activate          # Windows: .venv\Scripts\activate
+pip install -r requirements.txt    # anthropic, python-dotenv, pydantic
+echo "ANTHROPIC_API_KEY=sk-ant-..." > .env   # your key from console.anthropic.com
 python 03_extract.py
 ```
+
+Your API key lives in `.env` (gitignored, never committed). Each script calls
+`load_dotenv()` to read it, so you don't export anything.
 
 If the key is ever exposed (e.g. pasted into a chat), rotate it at
 console.anthropic.com: create a new key, replace the value in `.env`, revoke the old one.
