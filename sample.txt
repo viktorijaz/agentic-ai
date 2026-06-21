@@ -1,0 +1,33 @@
+The Map Is Not the Territory
+
+In 1931, the engineer and philosopher Alfred Korzybski offered a deceptively simple
+observation: a map is not the territory it represents. A map of a city is useful precisely
+because it leaves things out — every tree, every crack in the pavement, every passing
+car. If a map included everything, it would be the size of the city and no use to anyone.
+Its value comes from what it omits.
+
+The trouble starts when we forget this. We mistake our models for reality. An economist's
+equations, a manager's spreadsheet, a doctor's diagnosis, an engineer's blueprint — each
+is a map. Each is a compression of something far richer than itself. And each can be
+wrong in two ways: it can leave out something that turns out to matter, or it can be read
+as if it were the thing itself rather than a sketch of it.
+
+This matters most under stress. When a plan meets reality and the two disagree, the
+disciplined mind asks which to trust — and usually the answer is reality. But the tired,
+overcommitted, or frightened mind does the opposite: it clings to the map and argues with
+the territory. The pilot trusts the instrument over the view out the window. The
+organization trusts the forecast over the falling sales. The expert trusts the model over
+the patient in front of them.
+
+There is a second, subtler lesson. Better maps are not always more detailed maps. A
+subway map that distorts geography but clarifies the connections is more useful to a
+traveler than a perfectly accurate one. Knowing what to leave out is itself a skill — often
+the harder one. The goal is not a perfect representation but a useful one, fit for the
+question being asked.
+
+So the practical discipline is twofold. First, hold your models lightly: remember they
+are maps, and stay ready to redraw them when the territory talks back. Second, choose your
+maps for the journey at hand, accepting that the right level of detail for one question is
+the wrong level for another. The person who confuses these — who demands one perfect map
+for all purposes, or who defends the map against the world — is the one most likely to get
+lost.

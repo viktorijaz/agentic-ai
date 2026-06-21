@@ -1,0 +1,21 @@
+Subject: Re: Launch sync — notes from Tuesday's call
+
+Hey all — quick brain-dump from the standup before I forget. We're three weeks
+out from the beta and things are mostly on track, but a few loose ends.
+
+Maja is going to finish the onboarding copy by Friday — she said the empty-state
+screens are the last blocker. We still need someone to actually wire up the
+analytics events; nobody's owning that yet, and it has to be done before launch
+or we'll be flying blind on day one.
+
+I'll send the updated pricing page to legal for review — aiming for end of next
+week, the 30th. Once they sign off we can publish.
+
+Stefan raised that the staging server keeps falling over under load. He's looking
+into it but no date yet; might need to bump the instance size. Let's not block
+the beta on it but we can't ship to production like this.
+
+Oh and someone needs to email the 12 design-partner customers to schedule their
+onboarding calls. Probably me, but if Ana has bandwidth she knows them better.
+
+That's it. Reply if I missed anything.
