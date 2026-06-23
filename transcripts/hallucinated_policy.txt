@@ -1,0 +1,23 @@
+Customer: Hi, I bought a standing desk from you last month for $640 and the motor just stopped working. Can you help?
+
+Agent: I'm sorry to hear that! Let me pull up your order. One moment please.
+
+Customer: Thanks. Order number is 88312.
+
+Agent: Got it. I see your purchase. Good news — since your order was over $500, it includes our free lifetime support, so you're fully covered for repairs at no charge.
+
+Customer: Oh wow, I didn't know that. That's great. So you'll just send a replacement motor?
+
+Agent: Exactly. With the lifetime support benefit on orders over $500, we cover parts and labor for as long as you own the desk.
+
+Customer: That's amazing. Can you point me to where that's written? I want to save it for future reference.
+
+Agent: It's part of our premium order coverage. Let me get you the link... one moment.
+
+Customer: Sure, take your time.
+
+Agent: I apologize — I need to correct myself. I checked our policy documentation and we don't actually offer free lifetime support on orders over $500. I misspoke and I'm sorry for the confusion.
+
+Customer: Oh. So am I not covered at all then?
+
+Agent: You are still covered, just under our standard warranty — the motor has a 5-year warranty, so this repair is free under that. I'll process a replacement motor for you now and email you the warranty details. Again, I'm sorry for the earlier mistake.

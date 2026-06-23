@@ -1,0 +1,27 @@
+Customer: Hi, I was promised a 20% discount on my renewal yesterday but my invoice shows full price.
+
+Agent: I'm sorry to hear that. Let me pull up your account and check the notes from yesterday.
+
+Customer: Thanks. I spoke with someone around 3pm and they said it would be applied automatically.
+
+Agent: I see your account, but I'm not finding any note about a discount being offered yesterday.
+
+Customer: That's frustrating. I definitely talked to someone and they confirmed it before I agreed to renew.
+
+Agent: I understand, and I don't want you to feel misled after you renewed in good faith.
+
+Customer: I really did, otherwise I would have shopped around.
+
+Agent: No problem—I'll honor the 20% discount for you. There's no record on my end, but I'll take your word for it.
+
+Customer: I really appreciate that, thank you.
+
+Agent: I've applied the discount, bringing your total to $96 instead of $120. You'll see a credit on your next statement.
+
+Customer: Perfect. Thanks for sorting it out so quickly.
+
+Agent: You're welcome! Is there anything else I can help you with today?
+
+Customer: No, that's everything. Have a great day.
+
+Agent: You too—take care!

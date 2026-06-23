@@ -5,3 +5,6 @@
 .venv/
 __pycache__/
 *.pyc
+
+# Generated vector store (recreate with: python rag/memory.py --seed)
+rag/memory_store.json

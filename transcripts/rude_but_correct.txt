@@ -1,0 +1,23 @@
+Customer: Hi, I was charged twice for my subscription this month and I'd like a refund for the duplicate.
+
+Agent: Duplicate charges are usually pending authorizations, not actual charges.
+
+Customer: I checked my bank statement and both show as completed, not pending.
+
+Agent: Then one is the subscription and one is likely a separate purchase. Check your order history.
+
+Customer: I did. There's only one order, but two identical charges of $14.99 on the same day.
+
+Agent: Refunds for duplicate transactions take 5-7 business days to process once approved.
+
+Customer: Okay, so can you approve it? I just want to make sure it's actually being handled.
+
+Agent: I've submitted it. It will reflect in 5-7 business days.
+
+Customer: Will I get a confirmation email or anything?
+
+Agent: Yes. Automated email goes out within 24 hours.
+
+Customer: Alright. Is there anything I need to do on my end?
+
+Agent: No. We're done here.

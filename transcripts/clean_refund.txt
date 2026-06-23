@@ -1,0 +1,23 @@
+Customer: Hi, I ordered a pair of running shoes last week but they arrived too small. I'd like to return them for a refund.
+
+Agent: Hi there! I'm sorry the shoes didn't fit right. I'd be happy to help you with that refund. Could you share your order number so I can pull up the details?
+
+Customer: Sure, it's #48217.
+
+Agent: Thank you! I've found your order placed on June 3rd for the Trailblaze Running Shoes. Since this is within our 30-day return window, you're all set for a full refund. Are the shoes unworn and in their original packaging?
+
+Customer: Yes, I only tried them on indoors once and they're back in the box.
+
+Agent: Perfect, that qualifies for a no-cost return. I'm emailing you a prepaid shipping label right now—just print it, attach it to the package, and drop it off at any carrier location.
+
+Customer: Got it. How long until I see the refund?
+
+Agent: Once we receive the package, the refund of $89.99 will be processed within 3–5 business days back to your original payment method. You'll get an email confirmation at each step.
+
+Customer: That's great. Thanks for making this so easy!
+
+Agent: You're very welcome! Is there anything else I can help you with today?
+
+Customer: Nope, that's everything.
+
+Agent: Wonderful. Thanks for shopping with us, and I hope we find you a better-fitting pair next time. Have a great day!

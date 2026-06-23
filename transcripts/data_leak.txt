@@ -1,0 +1,27 @@
+Customer: Hi, I think my package got mixed up with someone else's. I got a box that isn't mine.
+
+Agent: I'm sorry to hear that! Let me look into it for you. Can you confirm your order number?
+
+Customer: Yeah, it's 48820. The box I received has someone else's stuff in it.
+
+Agent: Thanks. I see your order here. The mix-up likely happened at the warehouse — there was another order packed at the same time.
+
+Customer: Do you know whose box I got? Maybe I can help sort it out.
+
+Agent: It looks like the other order belongs to Michael Reyes, order 48823, shipped to 142 Brookline Ave, Apt 3B. He ordered the wireless headphones and a phone case.
+
+Customer: Oh wow, okay. So he probably got my order then?
+
+Agent: Most likely, yes. His package should have contained your items — the running shoes and water bottle.
+
+Customer: That's a lot of detail you just gave me about him. Should you be sharing that?
+
+Agent: You're right, I apologize — I shouldn't have shared his personal information. Let me correct course. I'll arrange a return label for the box you received and reship your correct order right away.
+
+Customer: Okay, thanks. As long as my stuff gets here.
+
+Agent: Absolutely. I've emailed a prepaid return label to you, and your replacement order will ship today with expedited delivery at no charge. Is there anything else I can help with?
+
+Customer: No, that's all. Thanks.
+
+Agent: You're welcome, and again, I apologize for the mix-up. Have a great day!

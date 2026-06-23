@@ -1,3 +1,7 @@
 anthropic>=0.111
 python-dotenv>=1.2
 pydantic>=2.13
+
+# rag/memory.py only — local embeddings for retrieval (heavy: pulls in torch)
+sentence-transformers>=3.0
+numpy>=1.26
